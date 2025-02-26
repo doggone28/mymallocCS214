@@ -1,0 +1,12 @@
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=doggone28
+user.email=doggone28.gamer@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:doggone28/mymallocCS214.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
